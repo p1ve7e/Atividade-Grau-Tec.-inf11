@@ -1,0 +1,6 @@
+print("c'mon frisk, we are DELTARUNE!")
+print("I DONT WANNA D:<")
+print("Eae Gabriel, bem-vindo :)")
+print(5+5)
+print(32//3)
+print(4%3)
