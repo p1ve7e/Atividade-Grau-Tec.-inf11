@@ -1,0 +1,8 @@
+git init
+git status
+git add .
+git commit -m "(FODASE)"
+git push
+
+
+git pull
